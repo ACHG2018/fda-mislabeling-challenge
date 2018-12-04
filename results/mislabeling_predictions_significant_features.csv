@@ -1,4 +1,4 @@
-sample,mislabeled_prob,mislabeled_prob
+sample,rna_mislabeled_prob,prot_mislabeled_prob
 Testing_1,0.0,0.0
 Testing_2,0.5,0.5
 Testing_3,1.0,0.25
